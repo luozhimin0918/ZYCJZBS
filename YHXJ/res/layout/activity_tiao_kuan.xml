@@ -79,7 +79,7 @@
             android:layout_marginRight="30dp"
             android:layout_marginLeft="30dp"
             android:layout_below="@+id/tiao_wel"
-            android:text="广鑫财经专注于行业信息参考服务，力求为广大用户提供便捷的数据快讯及行情服务。\n本站信息来自各合作方及个人观点，不构成任何交易建议，投资者交易导致的损失本站概不负责。"
+            android:text="众盈财经专注于行业信息参考服务，力求为广大用户提供便捷的数据快讯及行情服务。\n本站信息来自各合作方及个人观点，不构成任何交易建议，投资者交易导致的损失本站概不负责。"
             android:textColor="@color/item_hvlistview_textcolor"
             android:textSize="17sp"
             />
