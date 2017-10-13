@@ -53,7 +53,7 @@
         <ImageView
             android:id="@+id/login_logo"
             android:layout_width="91dp"
-            android:layout_height="91dp"
+            android:layout_height="89dp"
             android:layout_marginBottom="21dp"
             android:layout_marginTop="20dp"
             android:background="@drawable/login_logo1"/>
