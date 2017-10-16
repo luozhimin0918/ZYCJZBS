@@ -512,7 +512,7 @@ public class GotyeLiveActivity extends FragmentActivity implements OnClickListen
                 startActivity(intent);
                 break;
             case R.id.chat_dl:
-                functionBtn.setText("返回");
+//                functionBtn.setText("返回");
                 Intent intent2 = new Intent(GotyeLiveActivity.this, Login_One.class);
                 intent2.putExtra("from", "live");
                 startActivity(intent2);
