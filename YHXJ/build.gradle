@@ -49,10 +49,10 @@ android {
 //    }
     signingConfigs {
         config {
-            keyAlias 'cjdjczbs'
-            keyPassword 'cjdjczbs'
-            storeFile file('./keystore/cjdjczbs.jks')
-            storePassword 'cjdjczbs'
+            keyAlias 'zycj'
+            keyPassword 'zycjjks'
+            storeFile file('./keystore/zycj.jks')
+            storePassword 'zycjjks'
         }
     }
 
